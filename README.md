@@ -1,6 +1,6 @@
 # Weiyu Chen
 
-MSc (Eng) student in Robotics and Intelligent Systems at the University of Hong Kong (HKU).
+MSc (Eng) student in Robotics and Intelligent Systems at **The University of Hong Kong (HKU)**.
 
 My interests lie in embodied intelligence, multimodal AI, and large language model systems, with a focus on world models, vision-language-action (VLA) systems, and knowledge-augmented large models.
 
